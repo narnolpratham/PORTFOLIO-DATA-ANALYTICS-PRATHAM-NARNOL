@@ -1,7 +1,7 @@
-<p align="center"
-  <img 
-src="https://github.com/narnolpratham/PORTFOLIO-DATA-ANALYTICS-PRATHAM-NARNOL/blob/main/Project03/Screenshot%202026-04-19%20172023.png"
-width="100%">
+<p align="center">
+  <img
+  src="https://github.com/narnolpratham/Dashboards/blob/main/Screenshot%202026-04-19%20172023.png"
+  width="100%">
 </p>
 
 # Tata Virtual Internship: Retail Strategy & Data Visualization
